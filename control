@@ -3,5 +3,6 @@ Name: ForceUltraWide
 Version: 0.0.1
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
-Description: Prefer ultra-wide camera
+Description: Prefer ultra-wide (0.5x) camera
 Maintainer: you
+Section: Tweaks
