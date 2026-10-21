@@ -1,0 +1,7 @@
+Package: com.yourname.forceultrawide
+Name: ForceUltraWide
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: Prefer ultra-wide (0.5x) camera when available
+Maintainer: you
